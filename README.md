@@ -85,6 +85,60 @@ a)10∠120° b)32∠85° c)5∠310°
 
 12. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.
 
+![image](https://user-images.githubusercontent.com/117959424/220008360-82a9ab2c-57a5-4a9c-ab98-831df2612f48.png)
+
+14. Sume los siguientes conjuntos de números complejos:
+
+![image](https://user-images.githubusercontent.com/117959424/220008409-1b7e3f9a-7e58-491f-b5cc-bfa548db0175.png)
+
+16. Multiplique los siguientes números:
+
+![image](https://user-images.githubusercontent.com/117959424/220008456-42143f92-49bd-42e7-89fe-ed599200bf59.png)
+
+18. Realice las siguientes operaciones:
+
+![image](https://user-images.githubusercontent.com/117959424/220008484-730384eb-92aa-4496-8eb1-9c0a23a5c89c.png)
+
+20. ¿Cuál es la forma de onda de la corriente en el circuito del problema 19?
+
+![image](https://user-images.githubusercontent.com/117959424/220008529-5062742c-0cd8-4a94-810c-f24dcaba596a.png)
+
+22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85.
+
+![image](https://user-images.githubusercontent.com/117959424/220008602-b7915270-80c6-4ad1-92d5-6251625e3e7b.png)
+
+![image](https://user-images.githubusercontent.com/117959424/220008629-f066e538-03a8-47c3-8b28-d5dc87f7e8e1.png)
+
+24. Repita el problema 23 con C  0.0047 mF.
+
+![image](https://user-images.githubusercontent.com/117959424/220008661-8571b7a6-2af0-4285-b683-fa7a5dff25cc.png)
+
+26. Exprese la corriente en forma polar para cada circuito de la figura 15-84. 
+
+![image](https://user-images.githubusercontent.com/117959424/220008719-769086e2-5a73-4524-8a6a-f358f419d755.png)
+
+28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85.
+
+![image](https://user-images.githubusercontent.com/117959424/220008765-94b78aa4-08a7-4f86-80d6-49aaa173df66.png)
+
+![image](https://user-images.githubusercontent.com/117959424/220008787-ac00f69a-7de7-4db7-a554-fddbf69857c7.png)
+
+30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase.
+
+![image](https://user-images.githubusercontent.com/117959424/220008812-ab603335-00a4-4312-8f1e-2df339139042.png)
+
+![image](https://user-images.githubusercontent.com/117959424/220008827-85ca843e-7ee0-4a4d-8c54-a057dfffb1b1.png)
+
+32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA?
+¿Cuál es el ángulo resultante?
+
+![image](https://user-images.githubusercontent.com/117959424/220008867-9e7999ac-1ad7-4af1-8c35-205dc294ba40.png)
+
+34. Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de
+entrada y el voltaje de salida para cada una de las siguientes frecuencias:
+(a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz
+
+
 
 
 
